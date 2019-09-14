@@ -21,7 +21,7 @@ body{
   position: relative;
   color: #313131;
   font-weight: 500;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   display: block;
   overflow: hidden;
   transition: 0.7s all;
@@ -39,7 +39,7 @@ body{
   margin: auto;
   margin-top: 5%;
   color: white;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   border-width: 4px;
   border-style: solid;
   border-color: white;
@@ -104,7 +104,7 @@ ul{
 *{
   margin: 0;
   padding: 0;
-  font-family: "open sans",sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 .about-section{
   width: 100%;
@@ -141,7 +141,7 @@ ul{
   text-align: justify;
   margin-bottom: 20px;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 .about a{
   display: inline-block;
@@ -180,7 +180,7 @@ ul{
   margin-bottom: 20px;
   text-align: center;
   font-size: 12px;
-  font-family: "open sans",sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .s-m{
