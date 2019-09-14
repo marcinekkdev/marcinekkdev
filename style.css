@@ -69,9 +69,8 @@ body{
 .box-border{
   width: 200px;
   height: 3px;
-  background: #e74c3c;
+  background: white;
   margin: 20px auto;
-}
 }
 .box p{
   text-align: justify;
