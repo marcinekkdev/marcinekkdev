@@ -18,7 +18,7 @@ body{
 }
 #menu li a{
   text-decoration: none;
-  position: relathiive;
+  position: relative;
   color: #313131;
   font-weight: 500;
   font-family: 'Montserrat', sans-serif;
@@ -34,7 +34,7 @@ body{
 body{
   margin: 0;
   padding: 0;
-  background: #7a7d7b
+  background: #484a49
   background-size: cover;
 }
 .box{
