@@ -190,7 +190,7 @@ ul{
   display: inline-block;
   color: #2e2e2e;
   text-decoration: none;
-  border: 2px solid #e74c3c;
+  border: 2px solid #2e2e2e;
   border-radius: 24px;
   padding: 8px 40px;
   transition: 0.4s linear;
@@ -222,7 +222,7 @@ ul{
 .border{
   width: 100px;
   height: 3px;
-  background: #e74c3c;
+  background: #2e2e2e;
   margin: 40px auto;
 }
 
