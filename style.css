@@ -65,6 +65,13 @@ body{
   letter-spacing: 6px;
   font-weight: 100;
   padding: 20px;
+}  
+.border{
+  width: 100px;
+  height: 3px;
+  background: #e74c3c;
+  margin: 40px auto;
+}
 }
 .box p{
   text-align: justify;
