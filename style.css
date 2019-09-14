@@ -167,7 +167,7 @@ ul{
 .border{
   width: 100px;
   height: 3px;
-  background: #e74c3c;
+  background: #2e2e2e;
   margin: 40px auto;
 }
 .about-section-row{
@@ -188,7 +188,7 @@ ul{
 }
 .about a{
   display: inline-block;
-  color: #e74c3c;
+  color: #2e2e2e;
   text-decoration: none;
   border: 2px solid #e74c3c;
   border-radius: 24px;
@@ -197,7 +197,7 @@ ul{
 }
 .about a:hover{
   color: #fff;
-  background: #e74c3c;
+  background: #2e2e2e;
 }
 .progress-bar span{
   float: right;
