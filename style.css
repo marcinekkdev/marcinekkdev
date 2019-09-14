@@ -1,7 +1,8 @@
 body{
   margin: 0;
   padding: 0;
-  background: #f1f1f1;
+  background: url(bg.jpg) no-repeat;
+  background-size: cover;
 }
 #menu{
   margin: 0;
@@ -10,7 +11,6 @@ body{
   padding: 15px;
   border-style: solid
   font-size: 20px;
-  border-bottom-color: kolor
 }
 #menu li{
   list-style: none;
@@ -31,12 +31,6 @@ body{
   border-bottom-color: #e74c3c;
 }
 
-body{
-  margin: 0;
-  padding: 0;
-  background: #484a49
-  background-size: cover;
-}
 .box{
   width: 650px;
   background: rgba(163, 163, 163, 0.4);
@@ -104,42 +98,6 @@ ul{
   top: 50%;
   transform: translateY(-50%,-50%);
 }
-.contact-method{
-  width: 220px;
-  height: 140px;
-  display: inline-block;
-  background: rgba(0, 0, 0, 0.4);
-  margin: 70px;
-  color: #fff;
-  position: relative;
-  cursor: pointer;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center
-}
-.contact-method i{
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  font-size: 30px;
-  line-height: 140px;
-  background: #e3e3e3;
-  z-index: 1;
-  transition: transform 0.6s;
-}
-.contact-method span{
-  position: absolute;
-  width: 100%;
-  left: 0;
-  bottom: 0;
-  padding: 10px 0;
-}
-
-.contact-method:hover i{
-  transform: translateY(-40px);
-}
-
 .section {
   display: flex;
   align-items: center
@@ -154,6 +112,7 @@ ul{
   width: 100%;
   background: #f1f1f1;
   padding: 40px 0;
+  margin-top: 80px;
 }
 .inner-width{
   max-width: 1000px;
@@ -199,20 +158,11 @@ ul{
   color: #fff;
   background: #2e2e2e;
 }
-.progress-bar span{
-  float: right;
-  margin-right: 6px;
-  line-height: 13px;
-  color: #fff;
-  font-size: 12px;
-}
+
 @media screen and (max-width:700px) {
   .about-section-col{
     flex: 100%;
     margin: 10px 0;
-  }
-  .about,.skills{
-    padding: 0;
   }
   .about{
     text-align: center;
