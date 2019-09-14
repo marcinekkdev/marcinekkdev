@@ -67,10 +67,10 @@ body{
   padding: 20px;
 }  
 .border{
-  width: 100px;
+  width: 200px;
   height: 3px;
   background: #e74c3c;
-  margin: 40px auto;
+  margin: 20px auto;
 }
 }
 .box p{
